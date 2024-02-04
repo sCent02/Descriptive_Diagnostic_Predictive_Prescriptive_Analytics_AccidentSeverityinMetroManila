@@ -12,7 +12,7 @@ time quadrants.
 between different features of time components and the distribution of accidents within the certain event
 and places. Statistical tests such as ANOVA and Chi Squared Test were employed to examine whether there
 were significant differences or associations between variables and likelihood of road accident.
-- **Predictive Analytics** utilized Random Forest Classification analysis to explore the predictive power of the
+- **Predictive Analytics** uses different best classification model analysis to explore the predictive power of the
 feature importance on the Frequency of Accident in Metro Manila. Feature scoring models were employed
 to identify which factors significantly influenced the frequency of accident.
 - **Prescriptive Analytics** involved formulating recommendations based on the findings from the
