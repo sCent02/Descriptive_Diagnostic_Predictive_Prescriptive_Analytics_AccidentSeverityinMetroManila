@@ -1,0 +1,2 @@
+# Descriptive_Diagnostic_Predictive_Prescriptive_Analytics_AccidentSeverityinMetroManila
+This project consist of 
