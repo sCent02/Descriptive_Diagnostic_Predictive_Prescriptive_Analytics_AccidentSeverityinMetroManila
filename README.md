@@ -21,9 +21,9 @@ predictive analytics.
   <br>
   <br>
 
-  ### **Capstone Project:**
+### **Capstone Project:**
 
-  <div class="image-container">
+<div class="image-container">
   <p align="center">
     <img src="/assets/img/Intro.JPG" />
   </p>
