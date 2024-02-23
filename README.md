@@ -17,8 +17,9 @@ feature importance on the Frequency of Accident in Metro Manila. Feature scoring
 to identify which factors significantly influenced the frequency of accident.
 - **Prescriptive Analytics** involved formulating recommendations based on the findings from the
 predictive analytics.
+
 <br>
-<br>
+
 
 ### **Capstone Project:**
 
